@@ -36,21 +36,49 @@
 </table>
 
 
+### 🏗️ 第一章：大模型基础与架构 (Architecture & Math)
+*面试造火箭的基础，包含 Transformer 变体与底层数学原理。*
+- [x] **[Transformer 核心架构与 Attention 变体 (MHA/MQA/GQA/MLA)]** `High Frequency`
+  - *解析 DeepSeek 为什么使用 MLA (多头潜在注意力) 进行 KV Cache 压缩*
+- [x] **[位置编码进化史：从绝对位置到 RoPE (旋转位置编码) 代码推导]**
+- [x] **[显存优化必考：KV Cache 计算公式与 PagedAttention (vLLM) 原理]**
+- [x] **[机器学习基石：优化器 (SGD/Adam) 与 损失函数 (Cross-Entropy/MSE)]**
+- [x] **[精度与量化：FP32 vs FP16 vs BF16 及显存估算指南]**
 
-### 🔥 第一章：大模型基础与架构 (Architecture)
-*在这个板块，我详细推导了面试中最爱考的底层细节。*
-- [x] **[Transformer 核心架构与手撕 Multi-Head Attention]** `High Frequency`
-- [x] **[位置编码详解：从绝对位置到 RoPE (旋转位置编码) 的推导]**
-- [x] **[KV Cache 原理与显存优化计算]**
+### 🤖 第二章：Agent 应用与 RAG 系统 (RAG & Agent)
+*从“鹦鹉学舌”到“自主智能”，涵盖最新的 MCP 协议与检索增强。*
+- [x] **[RAG 全链路：Chunking 切片、向量检索与 Query 改写策略]**
+- [x] **[Rerank (重排序) 详解：Bi-Encoder vs Cross-Encoder 的本质区别]** `Project Essential`
+- [x] **[Agent 新范式：MCP (模型上下文协议) 是什么？(含 Python 示例)]** `New`
+- [x] **[Agent Skill：如何定义大模型的“手脚”与工具调用]**
 
-### ⚔️ 第二章：RLHF 与对齐算法 (Alignment)
-*当前最火的板块，结合了 DeepSeek-V3/R1 的技术细节。*
-- [x] **[RLHF 全流程：从 Reward Model 到 PPO 算法手撕]**
-- [x] **[DPO (Direct Preference Optimization) vs PPO：核心公式推导与差异]**
-- [x] **[Reward Hacking 详解：为什么模型会作弊？(含案例)]** ### 🔧 第三章：微调与实战 (Fine-tuning & Engineering)
-- [x] **[LoRA/QLoRA 核心原理：为什么只训练线性层？rank 怎么选？]**
-- [x] **[DeepSeek-V3 & Qwen 全系列技术报告精读笔记]**
-- [x] **[大模型面试手撕代码 Top 20 (C++/Python)]**
+### 🔧 第三章：高效微调与训练 (PEFT & Training)
+*如何低成本训练大模型？SFT 细节与灾难性遗忘解决方案。*
+- [x] **[LoRA 矩阵初始化原理：为什么要 A 高斯 B 全 0？]**
+- [x] **[QLoRA 核心技术：NF4 量化与双重量化解析]**
+- [x] **[微调进阶：AdaLoRA、DoRA 与 P-Tuning 选型指南]**
+- [x] **[灾难性遗忘 (Catastrophic Forgetting)：原因与 Replay/Freeze 解决方案]**
+
+### ⚔️ 第四章：RLHF 与对齐算法 (Alignment & RL)
+*DeepSeek-R1 引爆的核心板块，从 PPO 到 GRPO 的演进。*
+- [x] **[PPO vs DPO vs GRPO：On-Policy 与 Off-Policy 的本质差异]** `Hot`
+  - *重点解析 DeepSeek-R1 使用的 GRPO (Group Relative Policy Optimization)*
+- [x] **[RLHF 核心概念：Reward Hacking (奖励黑客) 与 熵坍塌 (Entropy Collapse)]**
+- [x] **[Critic vs Reward Model：为什么 GRPO 不需要 Critic 网络？]**
+- [x] **[KL 散度：在 RLHF 中如何防止模型“玩坏”？]**
+
+### 🐳 第五章：前沿模型技术报告精读 (DeepSeek & Qwen)
+*不读 Paper 怎么过面试？DeepSeek-V3/R1 与 Qwen 系列深度拆解。*
+- [x] **[DeepSeek-V3 核心：MoE (混合专家) 架构与无辅助损失负载均衡]**
+- [x] **[DeepSeek-R1 揭秘：冷启动 (Cold Start) SFT 的必要性与纯 RL 训练流程]**
+- [x] **[Qwen3 vs DeepSeek-R1：思考模式 (Thinking Budget) 与通用能力的权衡]**
+- [x] **[Scaling Law：大模型扩展定律与训练计算量估算]**
+
+### 💻 第六章：工程框架与手撕代码 (Engineering & Coding)
+*Talk is cheap, show me the code.*
+- [x] **[训练框架对比：LLaMA-Factory (全栈) vs Deepspeed vs VerL (RL 专用)]**
+- [x] **[LeetCode Hot 100：算法岗面试最最高频题目硬刷笔记]**
+- [x] **[Python 手撕：Multi-Head Attention 与 RoPE 核心实现]**
 
 ---
 
