@@ -39,18 +39,18 @@
 
 ### 🔥 第一章：大模型基础与架构 (Architecture)
 *在这个板块，我详细推导了面试中最爱考的底层细节。*
-- [x] **[Transformer 核心架构与手撕 Multi-Head Attention](你的飞书链接)** `High Frequency`
-- [x] **[位置编码详解：从绝对位置到 RoPE (旋转位置编码) 的推导](你的飞书链接)**
-- [x] **[KV Cache 原理与显存优化计算](你的飞书链接)**
+- [x] **[Transformer 核心架构与手撕 Multi-Head Attention]** `High Frequency`
+- [x] **[位置编码详解：从绝对位置到 RoPE (旋转位置编码) 的推导]**
+- [x] **[KV Cache 原理与显存优化计算]**
 
 ### ⚔️ 第二章：RLHF 与对齐算法 (Alignment)
 *当前最火的板块，结合了 DeepSeek-V3/R1 的技术细节。*
-- [x] **[RLHF 全流程：从 Reward Model 到 PPO 算法手撕](你的飞书链接)**
-- [x] **[DPO (Direct Preference Optimization) vs PPO：核心公式推导与差异](你的飞书链接)**
-- [x] **[Reward Hacking 详解：为什么模型会作弊？(含案例)](你的飞书链接)** ### 🔧 第三章：微调与实战 (Fine-tuning & Engineering)
-- [x] **[LoRA/QLoRA 核心原理：为什么只训练线性层？rank 怎么选？](你的飞书链接)**
-- [x] **[DeepSeek-V3 & Qwen 全系列技术报告精读笔记](你的飞书链接)**
-- [x] **[大模型面试手撕代码 Top 20 (C++/Python)](你的飞书链接)**
+- [x] **[RLHF 全流程：从 Reward Model 到 PPO 算法手撕]**
+- [x] **[DPO (Direct Preference Optimization) vs PPO：核心公式推导与差异]**
+- [x] **[Reward Hacking 详解：为什么模型会作弊？(含案例)]** ### 🔧 第三章：微调与实战 (Fine-tuning & Engineering)
+- [x] **[LoRA/QLoRA 核心原理：为什么只训练线性层？rank 怎么选？]**
+- [x] **[DeepSeek-V3 & Qwen 全系列技术报告精读笔记]**
+- [x] **[大模型面试手撕代码 Top 20 (C++/Python)]**
 
 ---
 
