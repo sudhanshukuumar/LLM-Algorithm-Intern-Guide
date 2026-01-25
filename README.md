@@ -12,12 +12,28 @@
 
 ## 📚 核心文档导航 (Document Navigation)
 
-所有内容已整理为飞书文档，**点击下方链接即可查看**：
+所有内容已整理为飞书文档，**点击下方链接即可查看**：[笔记链接](https://my.feishu.cn/wiki/Ipm5woCF1i28pPkFqtMcAhQyndh?from=from_copylink)
 
-[笔记链接](https://my.feishu.cn/wiki/Ipm5woCF1i28pPkFqtMcAhQyndh?from=from_copylink)
-<img width="752" height="1316" alt="zp1" src="https://github.com/user-attachments/assets/4ca9cebc-49d6-4068-8f9d-6c21e4be8e74" />
-<img width="680" height="1310" alt="zp2" src="https://github.com/user-attachments/assets/b8e6b2a8-a944-4828-a800-9196ad0a77b1" />
-<img width="670" height="838" alt="zp3" src="https://github.com/user-attachments/assets/c785c30d-b7e6-44d3-8900-891da8ef8fb9" />
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/4ca9cebc-49d6-4068-8f9d-6c21e4be8e74" width="260" />
+      <br />
+      <sub>招聘/沟通截图 1</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/b8e6b2a8-a944-4828-a800-9196ad0a77b1" width="260" />
+      <br />
+      <sub>招聘/沟通截图 2</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/c785c30d-b7e6-44d3-8900-891da8ef8fb9" width="260" />
+      <br />
+      <sub>招聘/沟通截图 3</sub>
+    </td>
+  </tr>
+</table>
 
 
 
