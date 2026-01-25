@@ -20,17 +20,17 @@
     <td align="center">
       <img src="https://github.com/user-attachments/assets/4ca9cebc-49d6-4068-8f9d-6c21e4be8e74" width="260" />
       <br />
-      <sub>招聘/沟通截图 1</sub>
+      <sub>目录</sub>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/b8e6b2a8-a944-4828-a800-9196ad0a77b1" width="260" />
       <br />
-      <sub>招聘/沟通截图 2</sub>
+      <sub>目录</sub>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/c785c30d-b7e6-44d3-8900-891da8ef8fb9" width="260" />
       <br />
-      <sub>招聘/沟通截图 3</sub>
+      <sub>目录</sub>
     </td>
   </tr>
 </table>
