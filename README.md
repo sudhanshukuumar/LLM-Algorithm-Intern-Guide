@@ -1,8 +1,5 @@
-# -
-🚀 2026届大模型算法岗实习面经 | 包含 DeepSeek/Qwen 技术报告解析、手撕 PPO/RoPE/Transformer、RLHF 核心与八股文 | 持续更新中...
+# 🚀 大模型算法岗实习面经 | 包含 DeepSeek/Qwen 技术报告解析、手撕 PPO/RoPE/Transformer、RLHF 核心与八股文 | 持续更新中...
 
-
-# 🚀 2026 大模型算法岗实习“硬核”面经 (LLM Interview Guide)
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
@@ -11,12 +8,11 @@
 > **写在前面**：
 > 本仓库记录了我（26届）在准备大模型算法岗实习过程中的核心笔记。
 > 这里的每一个知识点都是我在面试美团、快手等大厂时被实际问到，或者在 DeepSeek/Qwen 技术报告中挖掘出的考点。
-> 内容托管在飞书文档，方便我随时通过 iPad 手写更新公式和图解。
+> 内容全部托管在飞书文档
 
 ## 📚 核心文档导航 (Document Navigation)
 
-所有内容已整理为飞书文档，**点击下方链接即可查看无损排版（含大量手写推导图）**：
-
+所有内容已整理为飞书文档，**点击下方链接即可查看**：
 
 [笔记链接](https://my.feishu.cn/wiki/Ipm5woCF1i28pPkFqtMcAhQyndh?from=from_copylink)
 
