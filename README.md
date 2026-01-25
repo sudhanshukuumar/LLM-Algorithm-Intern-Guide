@@ -1,4 +1,4 @@
-# 🚀 大模型算法岗实习面经 | 包含 DeepSeek/Qwen 技术报告解析、手撕 PPO/RoPE/Transformer、RLHF 核心与八股文 | 持续更新中...
+# 🚀 大模型算法岗实习面经 | 包含 DeepSeek/Qwen 技术报告解析、手撕 PPO/RoPE/Transformer、RLHF 核心与八股文 | 持续更新中... [笔记链接](https://my.feishu.cn/wiki/Ipm5woCF1i28pPkFqtMcAhQyndh?from=from_copylink)
 
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
