@@ -17,6 +17,11 @@
 
 所有内容已整理为飞书文档，**点击下方链接即可查看无损排版（含大量手写推导图）**：
 
+
+[笔记链接](https://my.feishu.cn/wiki/Ipm5woCF1i28pPkFqtMcAhQyndh?from=from_copylink)
+
+
+
 ### 🔥 第一章：大模型基础与架构 (Architecture)
 *在这个板块，我详细推导了面试中最爱考的底层细节。*
 - [x] **[Transformer 核心架构与手撕 Multi-Head Attention](你的飞书链接)** `High Frequency`
